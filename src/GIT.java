@@ -2,7 +2,7 @@
 public class GIT {
 
 	public static void main(String[] args) {
-		System.out.println("±êÀÚ½Ä¾îdd");
+		System.out.println("±êÀÚ½Ädf¾îdd");
 
 	}
 
